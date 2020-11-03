@@ -12,7 +12,7 @@ exports.config = {
     browser.ignoreSynchronization = true;
     browser.waitForAngularEnabled(false);
   },
-  exclude: ['./example.spec.js', './facebook.spec.js'],
+  exclude: ['./example.spec.js', './choicehotels.spec.js'],
   
  
 }
